@@ -1,5 +1,3 @@
-# Erick Galindo - Portfolio
-
 ## Disclaimer
 
 > Due to **NDA agreements** and confidentiality policies with current and past employers, **no proprietary code, business logic, or sensitive project details** are included in this profile. All project descriptions are generalized summaries of my contributions and technical expertise.
